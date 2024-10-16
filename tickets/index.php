@@ -2,7 +2,7 @@
     require_once "../layout/access.php";
     if(isset($_SESSION["nombre_user"])){
 
-      $title="Panel de Control";
+      $title="Administrador de Tickets";
 
         require_once '../layout/header.php';
 ?>

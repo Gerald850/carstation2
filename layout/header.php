@@ -42,6 +42,9 @@
               <a class="nav-link" href="../reservas/">Reservas</a>
             </li>
             <li class="nav-item">
+              <a class="nav-link" href="../tickets/">tickets</a>
+            </li>
+            <li class="nav-item">
               <a class="nav-link" href="#">Configuración</a>
             </li>
             <li class="nav-item">

@@ -16,7 +16,6 @@
     <link rel="stylesheet" href="../fonts/css/all.css">
     <link rel="website icon" type="png" href="../img/logo-car.png">
     <link rel="stylesheet" href="../css/user.css">
-    <script src="../js/user.js"></script>
     <script src="../js/modal.js"></script>
   
 </head>
@@ -31,13 +30,16 @@
             </div>
           <ul class="nav flex-column">
             <li class="nav-item">
-              <a class="nav-link active" href="#">INICIO</a>
+              <a class="nav-link active" href="../panel/">INICIO</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Usuarios</a>
+              <a class="nav-link" href="../usuarios/">Usuarios</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="../garajes/">Garajes</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../reservas/">Reservas</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">Configuración</a>

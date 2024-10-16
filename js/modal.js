@@ -4,3 +4,10 @@ function AbrirModaXl(){
 function CerrarModaXl(){
     $(".modal-xl").hide();
 }
+
+function AbrirModal(){
+    $(".modal").show();
+}
+function CerrarModal(){
+    $(".modal").hide();
+}

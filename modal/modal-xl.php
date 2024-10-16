@@ -5,7 +5,7 @@
         <h5 class="modal-title-xl">Modal title</h5>
         <button type="button" class="btn-close" onclick="CerrarModaXl()" aria-label="Close"></button>
       </div>
-      <div class="modal-body-xl pt-4 pb-4">
+      <div class="modal-body-xl p-4">
       </div>
     </div>
   </div>
